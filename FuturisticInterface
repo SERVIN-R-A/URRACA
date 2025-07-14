@@ -1,0 +1,9 @@
+import FuturisticInterface from './components/FuturisticInterface';
+
+function App() {
+  return (
+    <div className="App">
+      <FuturisticInterface />
+    </div>
+  );
+}
